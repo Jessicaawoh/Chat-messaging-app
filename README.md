@@ -10,4 +10,4 @@ Today we gonna build messing/chat app #ui using #flutter that runs both Android 
 
 ![Preview](/gif.gif)
 
-![App UI](/ui.png)
+
